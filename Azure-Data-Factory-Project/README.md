@@ -13,8 +13,8 @@ The "Incrental_Load_Data_pipeline_Design_support_files" folder contains the supp
 <img width="1448" height="277" alt="image" src="https://github.com/user-attachments/assets/1201cf8a-8ef3-4d71-8405-ef3bd425f343" />
 
 
+<img width="1101" height="426" alt="image" src="https://github.com/user-attachments/assets/8c096319-05ab-4fb7-adfb-5544d3544a81" />
 
-![alt text](image.png)
 
 
 You can see how i have created the pipeline design from your adf studio to get a better hang of it!
