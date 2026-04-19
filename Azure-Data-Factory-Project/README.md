@@ -4,9 +4,13 @@ The entire explanation is done on my Medium Posts For Azure Data Factory -( http
 
 1. Incremental Load Pipeline Design:
 
+
 This project deals with how anyone can create a incremental+full load pipeline design in azure data factory. The entire explanation is done on the medium post-().
 
 The "Incrental_Load_Data_pipeline_Design_support_files" folder contains the support files. You just need to open your ADF Studio and then add "?feature.showImportFromSupportFiles=true&" to your URL, you will find the option to import support files.
+
+<img width="1448" height="277" alt="image" src="https://github.com/user-attachments/assets/1201cf8a-8ef3-4d71-8405-ef3bd425f343" />
+
 
 You can see how i have created the pipeline design from your adf studio to get a better hang of it!
 
